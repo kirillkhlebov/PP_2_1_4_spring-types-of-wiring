@@ -7,7 +7,7 @@ public class Needle7 {
 
     private Death8 death;
 
-    public Needle7 (Death8 death) {
+    public Needle7(Death8 death) {
         this.death = death;
     }
 
